@@ -1,0 +1,52 @@
+{
+    "Employee1": {
+        "Married": true,
+        "Name": "Priya Ranjan",
+        "Salary": 452452
+    },
+    "Employee10": {
+        "Married": false,
+        "Name": "Sanskar Thakur",
+        "Salary": 5600
+    },
+    "Employee2": {
+        "Married": false,
+        "Name": "Anmol Vishkarma",
+        "Salary": 56000
+    },
+    "Employee3": {
+        "Married": false,
+        "Name": "Amit Nag",
+        "Salary": 56000
+    },
+    "Employee4": {
+        "Married": false,
+        "Name": "Peeyush Barasiya",
+        "Salary": 56000
+    },
+    "Employee5": {
+        "Married": false,
+        "Name": "Saurabh Barasiya",
+        "Salary": 100000
+    },
+    "Employee6": {
+        "Married": false,
+        "Name": "Rahul Nag",
+        "Salary": 56000
+    },
+    "Employee7": {
+        "Married": false,
+        "Name": "Ranu Sahu",
+        "Salary": 56000
+    },
+    "Employee8": {
+        "Married": false,
+        "Name": "Annu Kahar",
+        "salary": 56000
+    },
+    "Employee9": {
+        "Married": false,
+        "Name": "Anuj Thakur",
+        "Salary": 56000
+    }
+}
